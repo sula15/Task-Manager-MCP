@@ -1,0 +1,16 @@
+{
+  "name": "task-management-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for task management with MongoDB and HTTP support",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.4.0",
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
