@@ -399,15 +399,7 @@ Create a task in CLI → See it instantly in Web App → Query it through Claude
 - `DELETE /tasks/:id` - Delete task
 - `GET /tasks/stats` - Task statistics
 
-## 🎉 Success Stories
 
-> **"Increased our team's task management efficiency by 300%"** - The multi-client approach means everyone can use their preferred interface while sharing the same data.
-
-> **"AI-powered task insights changed how we plan sprints"** - The advanced analytics and AI integration provides actionable insights for better project planning.
-
-> **"CLI automation saved us hours each week"** - Bulk operations and scriptable commands enable powerful workflow automation.
-
----
 
 ## 🚀 Ready to Get Started?
 
